@@ -19,6 +19,7 @@
 리버스 엔지니어링, 디컴파일, 소스코드 추출 등 기술적 보호조치를 무력화하는 행위
 비정상적인 방법으로 게임 데이터·점수·광고 노출을 조작하거나 자동화 프로그램을 사용하는 행위
 법령, 공서양속에 반하거나 타인의 권리를 침해하는 행위
+
 제5조 (지식재산권)
 본 앱과 그에 포함된 소프트웨어, 디자인, 그래픽, 텍스트, 상표 등 일체의 콘텐츠에 대한 저작권 및 기타 지식재산권은 회사 또는 정당한 권리자에게 귀속됩니다. 본 약관은 이용자에게 위 권리를 양도하지 않습니다.
 
@@ -78,6 +79,7 @@ copy, distribute, sell, rent, or create derivative works of the App or any part 
 reverse engineer, decompile, or otherwise attempt to extract source code or circumvent technical protection measures;
 manipulate game data, scores, or ad impressions, or use automated tools or bots;
 use the App in any way that violates applicable law or infringes the rights of others.
+
 5. Intellectual Property
 All copyrights and other intellectual property rights in the App and its content (software, design, graphics, text, trademarks, etc.) belong to the Company or its respective rights holders. These Terms do not transfer any such rights to you.
 
